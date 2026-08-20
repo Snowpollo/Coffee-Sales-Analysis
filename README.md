@@ -186,7 +186,7 @@ This could indicate that customers purchasing larger quantities represent an imp
 
 ## 📊 Dashboard
 
-The Excel dashboard provides a visual summary of the analysis using charts covering:
+The Excel dashboard provides a visual summary of the analysis using charts covering
 
 * Sales by year
 * Sales by country
